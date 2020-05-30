@@ -47,13 +47,13 @@
 #define LIGHTGREY 0xC618	// 192, 192, 192
 #define DARKGREY 0x7BEF		// 128, 128, 128
 #define BLUE 0x001F 		//   0,   0, 255
-#define GREEN 0x07E0	    //   0, 255,   0
-#define CYAN 0x07FF 	    //   0, 255, 255
+#define GREEN 0x07E0		//   0, 255,   0
+#define CYAN 0x07FF 		//   0, 255, 255
 #define RED 0xF800  		// 255,   0,   0
-#define MAGENTA 0xF81F	    // 255,   0, 255
-#define YELLOW 0xFFE0	    // 255, 255,   0
-#define WHITE 0xFFFF	    // 255, 255, 255
-#define ORANGE 0xFD20	    // 255, 165,   0
+#define MAGENTA 0xF81F		// 255,   0, 255
+#define YELLOW 0xFFE0		// 255, 255,   0
+#define WHITE 0xFFFF		// 255, 255, 255
+#define ORANGE 0xFD20		// 255, 165,   0
 #define GREENYELLOW 0xAFE5  // 173, 255,  47
 #define PINK 0xF81F
 

@@ -192,6 +192,7 @@ boolean bmpReadHeader(File f)
 	return true;
 }
 
+//Read 16BPP
 uint16_t read16(File f)
 {
 	uint16_t d;
@@ -203,6 +204,7 @@ uint16_t read16(File f)
 	return d;
 }
 
+//Read 32BPP
 uint32_t read32(File f)
 {
 	uint32_t d;
